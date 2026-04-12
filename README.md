@@ -2,7 +2,7 @@
 
 ## Student Information
 **Student Name:** Mark Sikaundi  
-**Student ID:** 2506429994 
+**Student ID:** 2506429994 <br/>
 **GitHub Repository:** https://github.com/marksikaundi/FreshFruits
 
 ---
