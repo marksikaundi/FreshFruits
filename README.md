@@ -1,4 +1,4 @@
-# Fresh Fruits Hub 🍎
+# Fresh Fruits 🍎
 
 ## Student Information
 **Student Name:** Mark Sikaundi  
